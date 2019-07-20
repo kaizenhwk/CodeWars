@@ -16,3 +16,9 @@ def centuryFromYear(year):
     print(((year - 1) // 100) + 1)
 
 print(centuryFromYear(1))
+
+"""
+Best/ Liked:
+def century(year):
+    return (year + 99) // 100
+"""
